@@ -1,8 +1,15 @@
 # Aprendiendo Algoritmos Genéticos
 
+## Artículos
+
+- [A Quick Example of Genetic Evolution in JavaScript: Let’s Make a Baby](https://medium.com/datadriveninvestor/a-quick-example-of-genetic-evolution-in-javascript-lets-make-a-baby-5a6f20d5de84)
+
 ## Demostraciones en línea
 
-TBD
+- [Genetic Algorithms Demo](http://math.hws.edu/eck/jsdemo/jsGeneticAlgorithm.html)
+- [Genetic Cars 2D](https://rednuht.org/genetic_cars_2/)
+- [Genetic Algorithm Walkers](https://rednuht.org/genetic_walkers/)
+- [Genetic Algorithms & Generative Art](https://chriscummins.cc/s/genetics/)
 
 ## Libros
 
