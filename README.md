@@ -1,5 +1,8 @@
 # Aprendiendo Algoritmos Genéticos
 
+Algunos enlaces y recursos del tema. Incluye una presentación
+mía (con texto en inglés). Ver ejemplos en [SimpleGA](https://github.com/ajlopez/SimpleGA).
+
 ## Artículos
 
 - [A Quick Example of Genetic Evolution in JavaScript: Let’s Make a Baby](https://medium.com/datadriveninvestor/a-quick-example-of-genetic-evolution-in-javascript-lets-make-a-baby-5a6f20d5de84)
