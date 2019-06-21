@@ -13,7 +13,7 @@ de su desarrollo.
 - [Mendel and Morgan](http://ibgwww.colorado.edu/~carey/p4102dir/bookchaptersdir/mendel)
 - [Watson and Crick](https://www.bbc.co.uk/history/historic_figures/watson_and_crick.shtml)
 
-Hay muchos libros, recomiendo la lectura de [Stephen Jay Gould](https://en.wikipedia.org/wiki/Stephen_Jay_Gould),
+Hay abundancia de libros sobre el tema, recomiendo la lectura de [Stephen Jay Gould](https://en.wikipedia.org/wiki/Stephen_Jay_Gould),
 [Ernst Mayr](https://en.wikipedia.org/wiki/Ernst_Mayr) y
 [John Maynard Smith](https://en.wikipedia.org/wiki/John_Maynard_Smith) entre muchos otros.
 
