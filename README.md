@@ -3,6 +3,20 @@
 Algunos enlaces y recursos del tema. Incluye una presentación
 mía (con texto en inglés). Ver ejemplos en [SimpleGA](https://github.com/ajlopez/SimpleGA).
 
+
+## Evolución Biológica
+
+Un tema amplísimo, mencioné algunos hitos de la historia
+de su desarrollo.
+
+- [Natural Selection: Charles Darwin & Alfred Russel Wallace](https://evolution.berkeley.edu/evolibrary/article/history_14)
+- [Mendel and Morgan](http://ibgwww.colorado.edu/~carey/p4102dir/bookchaptersdir/mendel)
+- [Watson and Crick](https://www.bbc.co.uk/history/historic_figures/watson_and_crick.shtml)
+
+Hay muchos libros, recomiendo la lectura de [Stephen Jay Gould](https://en.wikipedia.org/wiki/Stephen_Jay_Gould),
+[Ernst Mayr](https://en.wikipedia.org/wiki/Ernst_Mayr) y
+[John Maynard Smith](https://en.wikipedia.org/wiki/John_Maynard_Smith) entre muchos otros.
+
 ## Artículos
 
 - [A Quick Example of Genetic Evolution in JavaScript: Let’s Make a Baby](https://medium.com/datadriveninvestor/a-quick-example-of-genetic-evolution-in-javascript-lets-make-a-baby-5a6f20d5de84)
