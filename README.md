@@ -54,4 +54,4 @@ TBD
 - [AlphaStar: An Evolutionary Computation Perspective](https://arxiv.org/abs/1902.01724)
 - [Creative AI Through Evolutionary Computation](https://arxiv.org/abs/1901.03775)
 - [An effective evolutionary algorithm for protein folding on 3D FCC HP model by lattice rotation and generalized move sets](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3908773/)
-
+- [Automatic Design of a Hyper-Heuristic Framework With Gene Expression Programming for Combinatorial Optimization Problems](https://ieeexplore.ieee.org/document/6805577)
