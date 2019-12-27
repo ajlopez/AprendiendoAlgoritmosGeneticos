@@ -20,6 +20,7 @@ Hay abundancia de libros sobre el tema, recomiendo la lectura de [Stephen Jay Go
 ## Artículos
 
 - [A Quick Example of Genetic Evolution in JavaScript: Let’s Make a Baby](https://medium.com/datadriveninvestor/a-quick-example-of-genetic-evolution-in-javascript-lets-make-a-baby-5a6f20d5de84)
+- [Genetic Algorithm in Rust](https://dev.to/d3spis3d/genetic-algorithm-in-rust-3gg)
 
 ## Demostraciones en línea
 
